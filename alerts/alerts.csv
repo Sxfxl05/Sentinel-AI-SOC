@@ -1,0 +1,2 @@
+alert_type,timestamp,user,source_ip,severity
+BRUTE_FORCE,2025-01-10 10:33:50,root,185.23.44.10,HIGH
