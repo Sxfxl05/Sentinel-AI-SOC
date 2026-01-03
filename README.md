@@ -108,6 +108,28 @@ Production-safe Streamlit architecture
 
 Dockerized cloud deployment
 
+## 📸 Screenshots & Demo
+
+### 🖥️ SOC Dashboard Overview
+Shows the main SOC interface with KPIs, global attack paths, and live log feed.
+
+![SOC Dashboard](screenshots/dashboard_overview.png)
+
+### ⚡ SOAR Playbook Execution
+Demonstrates one-click SOAR automation with analyst confirmation and response execution.
+
+![SOAR Execution](screenshots/soar_execution.png)
+
+### 🧾 Professional SOAR Audit Report
+Generated incident report with severity, execution summary, and compliance logging.
+
+![SOAR Audit Report](screenshots/soar_audit_report.png)
+
+### 📊 SOC Audit Trail
+Persistent audit trail capturing all automated response actions.
+
+![Audit Trail](screenshots/soar_audit_trail.png)
+
 ## ⚠️ Disclaimer
 This project is a simulation intended for learning, demonstration, and portfolio purposes only.
 It does not perform real security enforcement
@@ -115,6 +137,7 @@ It does not perform real security enforcement
 ## 👤 Author
 Safal Chaturvedi
 Cybersecurity | SOC | SOAR | AI-Assisted Security
+
 
 
 
