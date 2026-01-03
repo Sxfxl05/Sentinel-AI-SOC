@@ -130,6 +130,10 @@ Persistent audit trail capturing all automated response actions.
 
 ![Audit Trail](screenshots/soar_audit_trail.png)
 
+### 🎬 Demo Walkthrough
+
+![Demo](screenshots/demo.gif)
+
 ## ⚠️ Disclaimer
 This project is a simulation intended for learning, demonstration, and portfolio purposes only.
 It does not perform real security enforcement
@@ -137,6 +141,7 @@ It does not perform real security enforcement
 ## 👤 Author
 Safal Chaturvedi
 Cybersecurity | SOC | SOAR | AI-Assisted Security
+
 
 
 
